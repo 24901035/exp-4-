@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex04 IMAGE MAP
 ## Date: 23-11-2025
 ## Name: MOHAN R
 ## Roll.No: 212224230168
